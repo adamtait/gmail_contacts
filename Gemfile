@@ -2,7 +2,7 @@ source "http://rubygems.org"
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
-gem "nokogiri", "~> 1.4"
+gem "nokogiri", "~> 1.10"
 gem "net-http-persistent", "~> 1.9"
 
 # Add dependencies to develop your gem here.
